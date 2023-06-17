@@ -1,6 +1,10 @@
 # flutter_hello_world
 
-A new Flutter project.
+Nosso primeiro projeto em FLUTTER!
+OAT DE DESENVOLVIMENTO MOBILE
+
+RIAN SOUSA FLORENTINO DAS CHAGAS
+JOÃO VITOR FERREIRA DANTAS
 
 ## Getting Started
 
